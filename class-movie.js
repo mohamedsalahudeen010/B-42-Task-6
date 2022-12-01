@@ -20,7 +20,7 @@ class movie{
 }
 var movie1= new movie("Casino Royale","Eon Productions","PG13");
 var movie2= new movie("Iron Man","Marvel Productions","PG");
-var movie3= new movie("Harry Potter","Earner Brother Productions","PG13");
+var movie3= new movie("Harry Potter","Warner Brother Productions","PG13");
 var movie4= new movie("Pirates of Carribean","Apple Productions","PG");
 var movie5= new movie("Avengers-End Game","Marvel Productions","PG13");
 
